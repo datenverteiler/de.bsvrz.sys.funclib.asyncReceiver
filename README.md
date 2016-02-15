@@ -1,4 +1,4 @@
-de.bsvrz.sys.funclib.asyncReceiver v${project.version} [![Build Status](https://travis-ci.org/datenverteiler/de.bsvrz.sys.funclib.asyncReceiver.svg?branch=master)](https://travis-ci.org/datenverteiler/de.bsvrz.sys.funclib.asyncReceiver)
+de.bsvrz.sys.funclib.asyncReceiver v${project.version} [![Build Status](https://travis-ci.org/datenverteiler/de.bsvrz.sys.funclib.asyncReceiver.svg?branch=develop)](https://travis-ci.org/datenverteiler/de.bsvrz.sys.funclib.asyncReceiver)
 ==========================================
 
 
