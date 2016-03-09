@@ -2,7 +2,7 @@
 [![Build Status](https://api.bintray.com/packages/datenverteiler/maven/de.bsvrz.sys.funclib.asyncReceiver/images/download.svg)](https://bintray.com/datenverteiler/maven/de.bsvrz.sys.funclib.asyncReceiver)
 
 de.bsvrz.sys.funclib.asyncReceiver v${project.version}
-==========================================
+=========================================
 
 
 Bauen und Veröffentlichen
